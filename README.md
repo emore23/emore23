@@ -84,7 +84,7 @@ Sou <strong>Desenvolvedora Front-end</strong> com mais de 7 anos de experiência
 ## 🌐 Redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefanimore/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tfczkt4m)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/h25KTV6k)
 
 ---
 
