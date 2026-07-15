@@ -1,93 +1,126 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emore23" alt="profile views" />
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&lines=Software+Engineer+Full+Stack;SaaS+%C2%B7+Headless+%C2%B7+Mobile;React+%C2%B7+Next.js+%C2%B7+Go+%C2%B7+Expo" alt="Typing SVG" />
 </p>
 
-<h1 align="left">Olá 👋, sou a Estefani</h1>
+<h1 align="center">Olá, sou a Estefani 👋</h1>
 
-<p align="justify">
-Sou <strong>Desenvolvedora Front-end</strong> com mais de 7 anos de experiência, especializada em <strong>arquitetura de software</strong>, <strong>componentização</strong>, <strong>metodologias ágeis</strong> e <strong>consultoria para startups e PMEs</strong>. Também atuo como <strong>Head de Produto</strong> e <strong>Head de Tecnologia</strong>, criando soluções escaláveis, performáticas e centradas no usuário.
+<p align="center">
+  <strong>Software Engineer Full Stack · 8+ anos</strong>
 </p>
 
----
+<p align="center">
+  Trabalho end-to-end em <strong>SaaS</strong>, <strong>e-commerce headless</strong> e <strong>apps mobile</strong> —
+  monorepos, APIs, web, mobile e CI/CD até produção.
+</p>
 
-## 🚀 Tecnologias e Stacks que domino
+<p align="center">
+  <strong>Foco atual:</strong> plataformas full stack em TypeScript, React/Next.js, React Native/Expo e Go
+  (OpenAPI, PostgreSQL, integrações e deploy híbrido).
+</p>
 
-### 🌐 Front-end
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat-square)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
-
-### 🧠 Validação, Forms e Testes
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square)
-![Yup](https://img.shields.io/badge/-Yup-4B5563?style=flat-square)
-![Zod](https://img.shields.io/badge/-Zod-0066cc?style=flat-square)
-![React Testing Library](https://img.shields.io/badge/-RTL-E33332?style=flat-square)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
-![Playwright](https://img.shields.io/badge/-Playwright-45BA63?style=flat-square)
-
-### 💻 Back-end & Banco de Dados
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
-![TypeORM](https://img.shields.io/badge/-TypeORM-F5F5F5?style=flat-square&logo=typeorm)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-
----
-
-## 🧩 Metodologias e Soft Skills
-
-- 💼 Agile (Scrum, Kanban, Lean)
-- 🧠 Arquitetura de Software
-- 🔍 QA e Garantia de Qualidade
-- 🗂️ Microserviços e Sistemas Distribuídos
-- 🧭 Organização de Times Técnicos
-- ⚙️ Desenvolvimento sob demanda
-- 🗣️ Liderança Técnica e Mentoria
-- 🤝 Consultoria para startups e PMEs
-
----
-
-## 🛠️ Ferramentas do dia a dia
-
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)
-![Obsidian](https://img.shields.io/badge/-Obsidian-4B0082?style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-
----
-
-## 🌐 Redes sociais
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefanimore/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/h25KTV6k)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emore23&style=flat-square&color=61DAFB" alt="profile views" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=emore23&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emore23&layout=compact&theme=radical&hide_border=true&hide=TeX" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=emore23&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://tanstack.com/query"><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
+</p>
+
+### 💻 Backend
+<p>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge" alt="REST" />
+  <a href="https://www.openapis.org/"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
+  <img src="https://img.shields.io/badge/BFF-0F172A?style=for-the-badge" alt="BFF" />
+</p>
+
+### 📱 Mobile
+<p>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></a>
+  <a href="https://docs.expo.dev/eas/"><img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" /></a>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <a href="https://turbo.build/"><img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" /></a>
+  <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" /></a>
+  <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
+</p>
+
+### 🛒 Integrações
+<p>
+  <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
+  <img src="https://img.shields.io/badge/Headless%20Commerce-111827?style=for-the-badge" alt="Headless Commerce" />
+  <img src="https://img.shields.io/badge/SaaS-0EA5E9?style=for-the-badge" alt="SaaS" />
+</p>
+
+### 🤖 IA / DX
+<p>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-0A0A0A?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agent%20Tooling-111827?style=for-the-badge" alt="Agent Tooling" />
+</p>
+
+---
+
+## 🧠 Focus Areas
+
+- 🏗️ Plataformas full stack end-to-end (web, mobile, API)
+- 🛒 SaaS e e-commerce headless
+- 📦 Monorepos, OpenAPI e CI/CD até produção
+- 🤖 RAG, MCP e tooling para agentes
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/estefanimore">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:estefani.muller.more@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/emore23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building SaaS, headless commerce & mobile apps — TypeScript · React · Go · Expo</em>
+</p>
